@@ -41,8 +41,8 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstAttribute="trailingMargin" secondItem="ltr-9j-UKf" secondAttribute="trailing" constant="234" id="paS-K8-whV"/>
-                            <constraint firstAttribute="bottomMargin" secondItem="ltr-9j-UKf" secondAttribute="bottom" constant="333.5" id="xQr-iv-hA6"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="ltr-9j-UKf" secondAttribute="trailing" constant="234" id="iTn-l2-aHu"/>
+                            <constraint firstAttribute="bottomMargin" secondItem="ltr-9j-UKf" secondAttribute="bottom" constant="333.5" id="rbq-Zr-ZyW"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
